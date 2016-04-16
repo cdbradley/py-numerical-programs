@@ -1,0 +1,6 @@
+apple
+orange
+pineapple
+avacado
+banana
+yellow
