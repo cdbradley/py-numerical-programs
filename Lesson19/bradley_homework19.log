@@ -1,0 +1,295 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.8)  12 APR 2016 13:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./bradley_homework19.tex
+(./bradley_homework19.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+(c:/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2015/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(c:/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./bradley_homework19.aux)
+\openout1 = `bradley_homework19.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) (c:/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 13.
+
+<g6theta.png, id=1, 578.16pt x 433.62pt>
+File: g6theta.png Graphic file (type png)
+ <use g6theta.png>
+Package pdftex.def Info: g6theta.png used on input line 21.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<g6psy.png, id=3, 578.16pt x 433.62pt>
+File: g6psy.png Graphic file (type png)
+ <use g6psy.png>
+Package pdftex.def Info: g6psy.png used on input line 23.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<g073theta.png, id=4, 578.16pt x 433.62pt>
+File: g073theta.png Graphic file (type png)
+ <use g073theta.png>
+Package pdftex.def Info: g073theta.png used on input line 26.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<g073psy.png, id=5, 578.16pt x 433.62pt>
+File: g073psy.png Graphic file (type png)
+ <use g073psy.png>
+Package pdftex.def Info: g073psy.png used on input line 28.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<g077theta.png, id=6, 578.16pt x 433.62pt>
+File: g077theta.png Graphic file (type png)
+ <use g077theta.png>
+Package pdftex.def Info: g077theta.png used on input line 31.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<g077psy.png, id=7, 578.16pt x 433.62pt>
+File: g077psy.png Graphic file (type png)
+ <use g077psy.png>
+Package pdftex.def Info: g077psy.png used on input line 33.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+Overfull \hbox (126.5198pt too wide) in paragraph at lines 20--36
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 70.7079pt on input line 38.
+
+<g08theta.png, id=8, 578.16pt x 433.62pt>
+File: g08theta.png Graphic file (type png)
+ <use g08theta.png>
+Package pdftex.def Info: g08theta.png used on input line 48.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+<g08psy.png, id=9, 578.16pt x 433.62pt>
+File: g08psy.png Graphic file (type png)
+ <use g08psy.png>
+Package pdftex.def Info: g08psy.png used on input line 50.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+<g1theta.png, id=10, 578.16pt x 433.62pt>
+File: g1theta.png Graphic file (type png)
+ <use g1theta.png>
+Package pdftex.def Info: g1theta.png used on input line 53.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+<g1psy.png, id=11, 578.16pt x 433.62pt>
+File: g1psy.png Graphic file (type png)
+ <use g1psy.png>
+Package pdftex.def Info: g1psy.png used on input line 55.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+<g2theta.png, id=12, 578.16pt x 433.62pt>
+File: g2theta.png Graphic file (type png)
+ <use g2theta.png>
+Package pdftex.def Info: g2theta.png used on input line 58.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+<g2psy.png, id=13, 578.16pt x 433.62pt>
+File: g2psy.png Graphic file (type png)
+ <use g2psy.png>
+Package pdftex.def Info: g2psy.png used on input line 60.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+<g25theta.png, id=14, 578.16pt x 433.62pt>
+File: g25theta.png Graphic file (type png)
+ <use g25theta.png>
+Package pdftex.def Info: g25theta.png used on input line 63.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+<g25psy.png, id=15, 578.16pt x 433.62pt>
+File: g25psy.png Graphic file (type png)
+ <use g25psy.png>
+Package pdftex.def Info: g25psy.png used on input line 65.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+Overfull \hbox (10.89865pt too wide) in paragraph at lines 47--68
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 109.21785pt on input line 70.
+
+[1
+
+{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<deltathetachaos.png, id=28, 578.16pt x 433.62pt>
+File: deltathetachaos.png Graphic file (type png)
+ <use deltathetachaos.png>
+Package pdftex.def Info: deltathetachaos.png used on input line 80.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+<deltathetanochaos.png, id=29, 578.16pt x 433.62pt>
+File: deltathetanochaos.png Graphic file (type png)
+
+<use deltathetanochaos.png>
+Package pdftex.def Info: deltathetanochaos.png used on input line 82.
+(pdftex.def)             Requested size: 173.44933pt x 130.087pt.
+
+Overfull \hbox (10.89865pt too wide) in paragraph at lines 79--85
+[][] 
+ []
+
+[2] [3]
+Overfull \hbox (48.15683pt too wide) in paragraph at lines 181--181
+[]\OT1/cmtt/m/n/10.95 p.title("Angle difference with different initial conditio
+ns - Chaotic")[] 
+ []
+
+[4] [5 <./g6theta.png> <./g6psy.png> <./g073theta.png> <./g073psy.png> <./g077t
+heta.png> <./g077psy.png>] [6 <./g08theta.png> <./g08psy.png> <./g1theta.png> <
+./g1psy.png> <./g2theta.png> <./g2psy.png> <./g25theta.png> <./g25psy.png>]
+[7 <./deltathetachaos.png> <./deltathetanochaos.png>] (./bradley_homework19.aux
+) ) 
+Here is how much of TeX's memory you used:
+ 1569 strings out of 493054
+ 22430 string characters out of 6138322
+ 85404 words of memory out of 5000000
+ 5086 multiletter control sequences out of 15000+600000
+ 8364 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,12n,23p,532b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2015/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2015/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
+0.pfb>
+Output written on bradley_homework19.pdf (7 pages, 1142691 bytes).
+PDF statistics:
+ 93 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
