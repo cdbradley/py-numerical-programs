@@ -1,6 +1,6 @@
 ##Colt Bradley
 #3.15.2016
-#Lesson 15
+#Lesson 20.2
 
 import os
 os.chdir("C:/Users/Colt/OneDrive/Documents/Professional/School/16spring/PY_251/20.FourierAnalysis")
@@ -13,68 +13,53 @@ import numpy as n
 import pylab as p
 
 #define essential functions
-#first is used in the first homeowrk exercise
-def f(x):
-    y = n.sin(6*n.pi*x)*n.exp(-x**2)
+ #These compute the real/complex parts of the fourier transform        
+def fourReal(f,x,t):
+    y = f(x)*n.cos(2*n.pi*x*t)
     return y
-    
-def ff(x,t):
-    y = n.sin(6*n.pi*x)*n.exp(-x**2)*n.exp(-2*n.pi*1j*x*t)
-    return y
-    
-def g(x):
-    y = n.cos(6*n.pi*x)*n.exp(-x**2)
+def fourComp(f,x,t):
+    y = -f(x)*n.sin(2*n.pi*x*t)
     return y
     
 def a(x):
     y = n.sin(6*n.pi*3*x)*n.exp(-x**2)
     return y
 
-def gf(x,t):
-    y = n.cos(6*n.pi*x)*n.exp(-x**2)*n.exp(-2*n.pi*1j*x*t)
-    return y
-
-#fucntion simpson() is the simpson rule function
-def simpsonfor(f,t,a,b,N):
-    h = float(b-a)/N
-    i = 1
-    n = 1
-    
-    I_1 = 0.
-    while i < N:
-        I_1 += f(a+i*h,t)
-        i += 1
-    
-    I_2 = 0   
-    while n < N+1:
-        I_2 += f(a+n*h - h/2,t)
-        n += 1
-    return (h/6)*(f(a,t)+f(b,t)+2*I_1+4*I_2)
-
-
 #############################################################################
 #Homework 2
 #############################################################################
-t3 = n.linspace(-4,4,100)
+t = n.linspace(-4,4,100)
+dt = t[1]-t[0]
 func3 = []
 
-for k in t3:
+for k in t:
     func3.append(a(k))
 
+#computes the discrete transform
 A = n.fft.fft(func3)
+#changes time values to frequency
+freq = n.fft.fftfreq(len(t),dt)
 
 p.close()
-p.plot(t3,func3,"b")
-p.title("Function 1 graph")
-p.xlabel("time (s)",fontsize = 16)
+p.plot(t,func3,"b")
+p.title("Part 2 Function Graph")
+p.xlabel("Time (s)",fontsize = 16)
 p.ylabel("Function Value",fontsize = 16)
-p.savefig("hw2agraph.png")
+p.savefig("prt2_function.png")
 p.show()
 
 p.close()
-p.plot(t3,A,"b")
-p.title("Function 1 fourier transform")
-p.xlabel("time (s)",fontsize = 16)
+p.plot(freq,n.real(A),"b")
+p.title("Part 2 Fourier Transform - Real Part")
+p.xlabel("Frequency (Hz)",fontsize = 16)
 p.ylabel("Function Value",fontsize = 16)
-p.savefig("hw2transformagraph.png")
+p.savefig("prt2_fourReal.png")
+p.show()
+
+p.close()
+p.plot(freq,n.imag(A),"b")
+p.title("Part 2 Fourier Transform - Imaginary Part")
+p.xlabel("Frequency (Hz)",fontsize = 16)
+p.ylabel("Function Value",fontsize = 16)
+p.savefig("prt2_fourComp.png")
 p.show()
