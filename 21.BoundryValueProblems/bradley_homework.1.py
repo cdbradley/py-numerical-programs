@@ -33,7 +33,7 @@ for i in range(len(Y+1))[1:-1]:
 ch.append(Y[50])
 
 #set the loop to happen while outside a certain error tolerance
-while change>.0000001:    
+while change>.00001:    
     Y[1:-1] = .5*(Y[:-2]+Y[2:])-(k*h**2)/2.*np.sqrt(1+((Y[:-2]-Y[2:])**2)/(2*h)**2)
     ch.append(Y[50])
     change = abs(ch[-1]-ch[-2])
