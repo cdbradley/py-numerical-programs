@@ -1,5 +1,6 @@
 \documentclass[11pt]{article}
 \usepackage{graphicx}
+\usepackage{float}
 
 \begin{document}
 \title{Lesson 20: Fourier Analysis}
@@ -20,7 +21,7 @@ After computing this integral, we plot both the real and imaginary parts. To get
 e^{i \theta} = \cos \theta - i\sin \theta
 \end{equation}
 We can then preform two integrals, one with the cosine replacing the exponential and corresponding to the real part and the other with the sine replacing the exponential. The graphs obtained for both $a(t) = \cos (6 \pi t) e^{-t^2}$ and $a(t) = \sin (6 \pi t) e^{-t^2}$. They peak where expected, and we can see the different structures present when we plot both the imaginary and real parts. 
-\begin{figure}[ht]
+\begin{figure}[H]
 \centering
 \begin{tabular}{cc}
 \includegraphics[scale=.4]{cos_wavepacket.png} \\
@@ -35,7 +36,7 @@ We can then preform two integrals, one with the cosine replacing the exponential
 \caption{Various plots for $\cos (6\pi t) e^{-t^2} $}
 \end{figure}
 
-\begin{figure}[ht]
+\begin{figure}[H]
 \centering
 \begin{tabular}{cc}
 \includegraphics[scale=.4]{sin_wavepacket.png} \\
@@ -55,7 +56,7 @@ We can then preform two integrals, one with the cosine replacing the exponential
 
 The answer to this part is very similar to part 1, but with different implementation. To compute this, we use python's fast Fourier transform function built into numpy. This time, we see two localized plectrums of frequencies in the real and imaginary parts. 
 
-\begin{figure}[ht]
+\begin{figure}[H]
 \centering
 \begin{tabular}{cc}
 \includegraphics[scale=.4]{prt2_function.png} \\
@@ -76,7 +77,7 @@ Finally, we look at the imported data. We use the same fast Fourier transform me
 
 Here, we see the frequency very sharply peaking at two points (around 5 and 1). These are the frequencies which comprise this signal. 
 
-\begin{figure}[ht]
+\begin{figure}[H]
 \centering
 \begin{tabular}{cc}
 \includegraphics[scale=.4]{prt3_function.png} \\

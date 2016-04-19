@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.8)  19 APR 2016 00:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.8)  19 APR 2016 12:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -55,35 +55,41 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(./bradley_homework.aux)
+(c:/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+) (./bradley_homework.aux)
 \openout1 = `bradley_homework.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 (c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count88
+\scratchcounter=\count89
 \scratchdimen=\dimen105
-\scratchbox=\box26
-\nofMPsegments=\count89
-\nofMParguments=\count90
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count91
+\scratchbox=\box28
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
 \MPscratchDim=\dimen106
-\MPnumerator=\count92
-\makeMPintoPDFobject=\count93
-\everyMPtoPDFconversion=\toks16
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
 ) (c:/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -133,251 +139,251 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
+(Font)              <12> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
+(Font)              <6> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 14.
+(Font)              <10.95> on input line 15.
 
 <cos_wavepacket.png, id=1, 578.16pt x 433.62pt>
 File: cos_wavepacket.png Graphic file (type png)
  <use cos_wavepacket.png>
-Package pdftex.def Info: cos_wavepacket.png used on input line 26.
+Package pdftex.def Info: cos_wavepacket.png used on input line 27.
 (pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
 
 <cos_fourReal.png, id=3, 578.16pt x 433.62pt>
 File: cos_fourReal.png Graphic file (type png)
  <use cos_fourReal.png>
-Package pdftex.def Info: cos_fourReal.png used on input line 29.
+Package pdftex.def Info: cos_fourReal.png used on input line 30.
 (pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
 
 <cos_fourComp.png, id=4, 578.16pt x 433.62pt>
 File: cos_fourComp.png Graphic file (type png)
  <use cos_fourComp.png>
-Package pdftex.def Info: cos_fourComp.png used on input line 32.
+Package pdftex.def Info: cos_fourComp.png used on input line 33.
 (pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
-
-
-LaTeX Warning: Float too large for page by 74.37572pt on input line 36.
-
-<sin_wavepacket.png, id=5, 578.16pt x 433.62pt>
-File: sin_wavepacket.png Graphic file (type png)
- <use sin_wavepacket.png>
-Package pdftex.def Info: sin_wavepacket.png used on input line 41.
-(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
-
-<sin_fourReal.png, id=6, 578.16pt x 433.62pt>
-File: sin_fourReal.png Graphic file (type png)
- <use sin_fourReal.png>
-Package pdftex.def Info: sin_fourReal.png used on input line 44.
-(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
-
-<sin_fourComp.png, id=7, 578.16pt x 433.62pt>
-File: sin_fourComp.png Graphic file (type png)
- <use sin_fourComp.png>
-Package pdftex.def Info: sin_fourComp.png used on input line 47.
-(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
-
-
-LaTeX Warning: Float too large for page by 74.37572pt on input line 51.
-
-<prt2_function.png, id=8, 578.16pt x 433.62pt>
-File: prt2_function.png Graphic file (type png)
- <use prt2_function.png>
-Package pdftex.def Info: prt2_function.png used on input line 61.
-(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
-
-<prt2_fourReal.png, id=9, 578.16pt x 433.62pt>
-File: prt2_fourReal.png Graphic file (type png)
- <use prt2_fourReal.png>
-Package pdftex.def Info: prt2_fourReal.png used on input line 64.
-(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
-
-<prt2_fourComp.png, id=10, 578.16pt x 433.62pt>
-File: prt2_fourComp.png Graphic file (type png)
- <use prt2_fourComp.png>
-Package pdftex.def Info: prt2_fourComp.png used on input line 67.
-(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
-
-
-LaTeX Warning: Float too large for page by 74.37572pt on input line 71.
-
-<prt3_function.png, id=11, 578.16pt x 433.62pt>
-File: prt3_function.png Graphic file (type png)
- <use prt3_function.png>
-Package pdftex.def Info: prt3_function.png used on input line 82.
-(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
-
-<prt3_periodogram.png, id=12, 578.16pt x 433.62pt>
-File: prt3_periodogram.png Graphic file (type png)
- <use prt3_periodogram.png>
-Package pdftex.def Info: prt3_periodogram.png used on input line 85.
-(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
-
-[1
+ [1
 
 {c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (209.12009pt too wide) in paragraph at lines 234--234
+Overfull \vbox (74.37572pt too high) has occurred while \output is active []
+
+
+[2 <./cos_wavepacket.png> <./cos_fourReal.png> <./cos_fourComp.png>]
+<sin_wavepacket.png, id=27, 578.16pt x 433.62pt>
+File: sin_wavepacket.png Graphic file (type png)
+ <use sin_wavepacket.png>
+Package pdftex.def Info: sin_wavepacket.png used on input line 42.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<sin_fourReal.png, id=28, 578.16pt x 433.62pt>
+File: sin_fourReal.png Graphic file (type png)
+ <use sin_fourReal.png>
+Package pdftex.def Info: sin_fourReal.png used on input line 45.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<sin_fourComp.png, id=29, 578.16pt x 433.62pt>
+File: sin_fourComp.png Graphic file (type png)
+ <use sin_fourComp.png>
+Package pdftex.def Info: sin_fourComp.png used on input line 48.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+Overfull \vbox (74.37572pt too high) has occurred while \output is active []
+
+
+[3 <./sin_wavepacket.png> <./sin_fourReal.png> <./sin_fourComp.png>]
+<prt2_function.png, id=36, 578.16pt x 433.62pt>
+File: prt2_function.png Graphic file (type png)
+ <use prt2_function.png>
+Package pdftex.def Info: prt2_function.png used on input line 62.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<prt2_fourReal.png, id=37, 578.16pt x 433.62pt>
+File: prt2_fourReal.png Graphic file (type png)
+ <use prt2_fourReal.png>
+Package pdftex.def Info: prt2_fourReal.png used on input line 65.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<prt2_fourComp.png, id=38, 578.16pt x 433.62pt>
+File: prt2_fourComp.png Graphic file (type png)
+ <use prt2_fourComp.png>
+Package pdftex.def Info: prt2_fourComp.png used on input line 68.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+[4]
+Overfull \vbox (74.37572pt too high) has occurred while \output is active []
+
+
+[5 <./prt2_function.png> <./prt2_fourReal.png> <./prt2_fourComp.png>]
+<prt3_function.png, id=48, 578.16pt x 433.62pt>
+File: prt3_function.png Graphic file (type png)
+ <use prt3_function.png>
+Package pdftex.def Info: prt3_function.png used on input line 83.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+<prt3_periodogram.png, id=49, 578.16pt x 433.62pt>
+File: prt3_periodogram.png Graphic file (type png)
+ <use prt3_periodogram.png>
+Package pdftex.def Info: prt3_periodogram.png used on input line 86.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+
+[6 <./prt3_function.png> <./prt3_periodogram.png>]
+Overfull \hbox (209.12009pt too wide) in paragraph at lines 235--235
 []\OT1/cmtt/m/n/10.95 os.chdir("C:/Users/Colt/OneDrive/Documents/Professional/S
 chool/16spring/PY_251/20.FourierAnalysis")[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 234--234
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 235--235
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 234--234
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 235--235
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
 
-Overfull \hbox (19.41339pt too wide) in paragraph at lines 234--234
+Overfull \hbox (19.41339pt too wide) in paragraph at lines 235--235
 []    \OT1/cmtt/m/n/10.95 #These compute the real/complex parts of the fourier 
 transform[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 234--234
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 235--235
 []\OT1/cmtt/m/n/10.95 #fucntion simpsonfour() is the simpson rule function spec
 ifically for fourier[] 
  []
 
-[2]
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 234--234
+[7]
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 235--235
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 234--234
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 235--235
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
 
-Overfull \hbox (94.14633pt too wide) in paragraph at lines 234--234
+Overfull \hbox (94.14633pt too wide) in paragraph at lines 235--235
 []\OT1/cmtt/m/n/10.95 #create a list to contain I, create a list for select num
 bers between the error[] 
  []
 
-[3] [4]
-Overfull \hbox (209.12009pt too wide) in paragraph at lines 304--304
+[8] [9]
+Overfull \hbox (209.12009pt too wide) in paragraph at lines 305--305
 []\OT1/cmtt/m/n/10.95 os.chdir("C:/Users/Colt/OneDrive/Documents/Professional/S
 chool/16spring/PY_251/20.FourierAnalysis")[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 304--304
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 305--305
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 304--304
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 305--305
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
-[5]
-Overfull \hbox (2.16733pt too wide) in paragraph at lines 304--304
+[10]
+Overfull \hbox (2.16733pt too wide) in paragraph at lines 305--305
 [] \OT1/cmtt/m/n/10.95 #These compute the real/complex parts of the fourier tra
 nsform[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 304--304
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 305--305
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 304--304
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 305--305
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
-[6]
-Overfull \hbox (209.12009pt too wide) in paragraph at lines 367--367
+[11]
+Overfull \hbox (209.12009pt too wide) in paragraph at lines 368--368
 []\OT1/cmtt/m/n/10.95 os.chdir("C:/Users/Colt/OneDrive/Documents/Professional/S
 chool/16spring/PY_251/20.FourierAnalysis")[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 367--367
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 368--368
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 367--367
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 368--368
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
 
-Overfull \hbox (2.16733pt too wide) in paragraph at lines 367--367
+Overfull \hbox (2.16733pt too wide) in paragraph at lines 368--368
 [] \OT1/cmtt/m/n/10.95 #These compute the real/complex parts of the fourier tra
 nsform[] 
  []
 
 
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 367--367
-[]\OT1/cmtt/m/n/10.95 #########################################################
-####################[] 
- []
-
-[7]
-Overfull \hbox (82.64896pt too wide) in paragraph at lines 367--367
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 368--368
 []\OT1/cmtt/m/n/10.95 #########################################################
 ####################[] 
  []
 
 
-Overfull \hbox (48.15683pt too wide) in paragraph at lines 367--367
+Overfull \hbox (82.64896pt too wide) in paragraph at lines 368--368
+[]\OT1/cmtt/m/n/10.95 #########################################################
+####################[] 
+ []
+
+
+Overfull \hbox (48.15683pt too wide) in paragraph at lines 368--368
 []\OT1/cmtt/m/n/10.95 time,amp = n.loadtxt("Lesson20_Data.txt",usecols = (0,1),
  unpack =True)[] 
  []
 
-
-Overfull \hbox (65.4029pt too wide) in paragraph at lines 367--367
+[12]
+Overfull \hbox (65.4029pt too wide) in paragraph at lines 368--368
 []    \OT1/cmtt/m/n/10.95 power.append((1.0/N**2)*((A[i]*n.conj(A[i]))+(A[N-i]*
 n.conj(A[N-i]))))[] 
  []
 
-[8] [9 <./cos_wavepacket.png> <./cos_fourReal.png> <./cos_fourComp.png>]
-[10 <./sin_wavepacket.png> <./sin_fourReal.png> <./sin_fourComp.png>] [11 <./pr
-t2_function.png> <./prt2_fourReal.png> <./prt2_fourComp.png>] [12 <./prt3_funct
-ion.png> <./prt3_periodogram.png>] (./bradley_homework.aux) ) 
+[13] (./bradley_homework.aux) ) 
 Here is how much of TeX's memory you used:
- 1545 strings out of 493054
- 22312 string characters out of 6138322
- 84404 words of memory out of 5000000
- 5067 multiletter control sequences out of 15000+600000
+ 1605 strings out of 493054
+ 23079 string characters out of 6138322
+ 82771 words of memory out of 5000000
+ 5123 multiletter control sequences out of 15000+600000
  8671 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,13n,23p,418b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2015/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2015/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2015/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi8.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
-pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2015/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2015/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmtt10.pfb>
-Output written on bradley_homework.pdf (12 pages, 580603 bytes).
+ 37i,13n,23p,418b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2015/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmex10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2015/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2015/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on bradley_homework.pdf (13 pages, 580988 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 118 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
