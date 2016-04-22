@@ -1,3 +1,6 @@
+#Colt Bradley
+#4.21.16
+#PDEs
 # Solve the PDE for waves on a string
 import pylab as pl
 import numpy as np
@@ -11,7 +14,7 @@ sigma = 1.0
 
 # Set up grid
 N = 100  # number of space intervals
-nts = 120  # number of timesteps
+nts = 200  # number of timesteps
 plt = 20 # number of timesteps between plots
 dx = (xb - xa)/N
 dt = 0.25*dx/c
@@ -46,6 +49,8 @@ while n < nts:
         pl.plot(x,y)
         print n, time
 
+pl.title("Amplitude of Gaussian pulse at various times 1")
 pl.xlabel('x')
 pl.ylabel('y')
+pl.savefig("part1.png")
 pl.show()
