@@ -19,9 +19,9 @@ cdtoverdxsqr = (c*dt/dx)**2
 x = np.linspace(xa,xb,N+1)
 
 # arrays
-y = np.empty(N+1)
-ym = np.empty(N+1) # "y_minus" = y at previous timestep
-yp = np.empty(N+1) # "y_plus"  = y at next timestep
+y = np.zeros(N+1)
+ym = np.zeros(N+1) # "y_minus" = y at previous timestep
+yp = np.zeros(N+1) # "y_plus"  = y at next timestep
 
 # initial data
 for i in range(0,N+1,1):
