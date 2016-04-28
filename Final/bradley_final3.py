@@ -31,20 +31,21 @@ def f(x):
     
 a=0
 b=6*np.pi
-print simpson(f,a,b,5)
-print simpson(f,a,b,10)
-print simpson(f,a,b,15)
+print "5: ",simpson(f,a,b,5)
+print "10: ",simpson(f,a,b,10)
+print "15: ",simpson(f,a,b,15)
 print
 print "Result of interest:"
 print simpson(f,a,b,20)
 print
-print simpson(f,a,b,25)
-print simpson(f,a,b,30)
-print simpson(f,a,b,35)
+print "25: ",simpson(f,a,b,25)
+print "30: ",simpson(f,a,b,30)
+print "35: ",simpson(f,a,b,35)
 print
-print simpson(f,a,b,1000)
+print "1000: ", simpson(f,a,b,1000)
 
 # we look at the results surrounding 20 times steps, and see that -3.71 is consistant, so we belive that. 
 #This also matches when we take a large number of steps, as seen in the final calculation
+#We beleive 3 significant digits, (two to the right of the decimal place) meaning that we believe -3.71 at 20 time steps
 
     

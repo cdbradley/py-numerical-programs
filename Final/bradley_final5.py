@@ -17,7 +17,7 @@ time = []
 N = []
 R = []
 
-
+#100,000 steps are used, this is probably overkill
 t=np.linspace(0,2,100000)
 dt = t[1]-t[0]
 x = 1.

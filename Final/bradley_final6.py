@@ -34,3 +34,7 @@ py.plot(x,deriv)
 py.show()
 
 np.savetxt("question6.txt",zip(x,deriv))
+
+#central difference stecil is a reasonable finite difference stencil to use. It's error scales as h^4, and we aren't useing enough steps to get subtractive error. 
+#thus, we expect this to be a good result
+#File saves as "question6.txt"
